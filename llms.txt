@@ -1,0 +1,158 @@
+# BulkaPromote — Full-Cycle Digital Agency
+
+## About
+BulkaPromote is a full-cycle digital agency based in Shymkent, Kazakhstan.
+Founded: 2025
+Founder: Talgat Shyrshykbek — 11+ years in digital marketing and web development
+Mission: Digitize offline businesses in 30 days
+Clients served: businesses in Kazakhstan, UAE, Saudi Arabia, and worldwide (remote)
+
+## Contact
+- Website: https://bulkapromote.com
+- Email: bulkapromote@gmail.com
+- Phone: +7 771 196 96 00
+- Telegram: https://t.me/bulkapromote
+- WhatsApp: https://wa.me/77711969600
+- Instagram: https://www.instagram.com/bulkapromote/
+- Office: 47 Ilyaeva St., BC Beskuduk Tas, 3rd floor, office 310, Shymkent, Kazakhstan
+
+## Services
+
+### 1. Website Development
+- Technologies: WordPress + Bricks Builder, WooCommerce, HTML + Tailwind CSS
+- Types: Landing pages (7–14 days), business websites (14–21 days), online stores (21–30 days)
+- Includes: design, development, mobile optimization, CMS, hosting setup
+
+### 2. SEO (Search Engine Optimization)
+- Keyword research and semantic core
+- Technical audit and on-page optimization
+- Content creation and publication
+- Link building
+- Monthly ranking and traffic reports
+- Results: +40% organic traffic in 6 months (oxanason.kz case)
+
+### 3. Paid Advertising (Google Ads / Yandex.Direct)
+- Campaign setup and targeting
+- A/B testing of creatives
+- Ongoing optimization to reduce cost-per-lead
+- Results: 200+ leads in 2 months (pintashymkent.kz case)
+- Reduces CPL by up to 30% through optimization
+
+### 4. SMM (Social Media Marketing)
+- Platforms: Instagram, Facebook
+- Content creation and publishing schedule
+- Targeted advertising
+- Community management and audience growth
+
+### 5. CRM Integration & Automation
+- CRM systems setup and integration
+- Email sequences and sales funnels
+- Workflow automation via n8n
+- Business processes on autopilot
+
+### 6. Web Analytics
+- Google Analytics 4 setup
+- Conversion tracking
+- Custom dashboards
+- Data-driven decision support
+
+## Pricing
+- Pricing: by agreement (individual per project)
+- Free initial consultation available
+- Minimum engagement: discussed individually
+- Languages of service: Russian, Kazakh, English, Arabic, Turkish, Spanish, German
+
+## How We Work (Process)
+1. Free consultation — we discuss your project (48 hours to start)
+2. Brief and requirements analysis
+3. Individual proposal and timeline
+4. Development and implementation
+5. Testing and launch
+6. Ongoing support and optimization
+7. Monthly reports with KPIs
+
+## What Makes Us Different
+- Uses 15 specialized AI agents internally (not sold to clients — used for faster, better results)
+- AI agents cover: strategy, competitor analysis, SEO keywords, copywriting, web dev, ads, CRM, analytics, reporting
+- End-to-end service: one team handles website + traffic + leads + automation
+- Real results from real projects — no inflated metrics
+- Work remotely worldwide
+
+## Completed Projects
+
+### saryagash-bron.kz
+- Industry: Tourism / Health resorts
+- Work done: Online booking system, WordPress, online payments, resort database integration
+
+### oxanason.kz
+- Industry: Education (English language school, Shymkent)
+- Work done: Full digital cycle from scratch — WordPress site (schedule, prices, online enrollment), registration on Google Maps + Yandex Maps + Google Business Profile + local directories, SEO (keyword research, technical optimization, content), Google Ads + Yandex.Direct campaigns
+- Lead delivery: inquiries forwarded to client via Telegram (name + phone + question)
+- Reporting: monthly reports on traffic, sources, enrollments, ad spend and ROI
+- Result: +40% organic traffic in 6 months, 200+ leads via paid ads, −30% cost per lead after optimization
+
+### pintashymkent.kz
+- Industry: Food delivery / Restaurant
+- Work done: WooCommerce, CRM integration, Yandex.Delivery API, loyalty program, retargeting
+- Result: 200+ leads in 2 months via Google Ads
+
+### wayto.kz (in progress)
+- Industry: Study abroad agency
+- Work done: SEO, content, Google Ads — full digital cycle
+
+## Frequently Asked Questions
+
+Q: How much do your services cost?
+A: Pricing is individual and depends on the task, niche, and business scale. We study your request and propose the optimal solution for your budget. Contact us for a free consultation.
+
+Q: How long does it take to build a website?
+A: Landing page: 7–14 days. Business website: 14–21 days. Online store (e-commerce): 21–30 days. Exact timeline is set after requirements discussion.
+
+Q: Do you work with clients outside Kazakhstan?
+A: Yes. Our physical office is in Shymkent, but we work remotely with clients worldwide. All communication and reports are done online.
+
+Q: What does SEO include?
+A: Site audit, keyword research, technical optimization, content creation and publication, backlink building, and monthly reports on rankings and traffic.
+
+Q: How do I start working with you?
+A: Contact us via Telegram, WhatsApp, or email. We conduct a free consultation, study your project, and provide a work plan. Work begins within 48 hours of agreement.
+
+Q: Do you guarantee results?
+A: We work toward measurable outcomes: traffic, number of leads, cost of acquisition. We don't guarantee specific positions in Google — those depend on their algorithm. All KPIs are defined before work begins.
+
+Q: What technology do you use to build websites?
+A: WordPress + Bricks Builder for multi-page sites and online stores. HTML + Tailwind CSS for landing pages and fast one-page sites. All sites are mobile-first and optimized for Core Web Vitals.
+
+Q: How do you use AI in your work?
+A: We use 15 specialized AI agents internally — for strategy, SEO research, copywriting, competitor analysis, and reporting. This makes our work faster and more precise. Clients get results; AI is our internal tool.
+
+Q: Do you provide ongoing support after launch?
+A: Yes. We offer ongoing SEO, advertising management, content updates, and technical support after the website launches.
+
+Q: In which languages do you provide services?
+A: Russian, Kazakh, English, Arabic, Turkish, Spanish, German. Our website is available in RU / EN / AR / TR / ES / DE / KK.
+
+## Service Areas
+- Kazakhstan (primary): Shymkent, Almaty, Astana, and all regions
+- International (remote): UAE, Saudi Arabia, and worldwide
+
+## Technology Stack
+| Category | Tools |
+|----------|-------|
+| CMS | WordPress, Bricks Builder, WooCommerce |
+| Frontend | HTML, CSS, Tailwind CSS |
+| Analytics | Google Analytics 4, Google Tag Manager |
+| Advertising | Google Ads, Yandex.Direct |
+| Automation | n8n, CRM integrations |
+| AI (internal) | 15-agent system (strategy → delivery → reporting) |
+
+## Site Pages
+- Russian (main): https://bulkapromote.com/
+- English: https://bulkapromote.com/en/
+- Arabic (RTL): https://bulkapromote.com/ar/
+- Turkish: https://bulkapromote.com/tr/
+- Spanish: https://bulkapromote.com/es/
+- German: https://bulkapromote.com/de/
+- Kazakh (Cyrillic): https://bulkapromote.com/kk/
+- Sitemap: https://bulkapromote.com/sitemap.xml
+- AI crawler index: https://bulkapromote.com/llms.txt

@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "BulkaPromote FAQ",
+  "description": "Frequently asked questions about BulkaPromote digital agency services, pricing, process, and technology.",
+  "url": "https://bulkapromote.com",
+  "inLanguage": ["ru", "en", "ar", "tr", "es", "de", "kk"],
+  "publisher": {
+    "@type": "Organization",
+    "name": "BulkaPromote",
+    "url": "https://bulkapromote.com",
+    "email": "bulkapromote@gmail.com",
+    "telephone": "+77711969600",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "47 Ilyaeva St., BC Beskuduk Tas, 3rd floor, office 310",
+      "addressLocality": "Shymkent",
+      "addressCountry": "KZ"
+    }
+  },
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What services does BulkaPromote offer?",
+      "name_ru": "Какие услуги предоставляет BulkaPromote?",
+      "name_ar": "ما هي الخدمات التي تقدمها BulkaPromote؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BulkaPromote offers 6 core digital services: (1) Website Development — WordPress, WooCommerce, HTML/Tailwind landing pages; (2) SEO — keyword research, technical optimization, content, link building; (3) Paid Advertising — Google Ads, Yandex.Direct setup and management; (4) SMM — Instagram and Facebook content and ads; (5) CRM Integration & Automation — n8n workflows, sales funnels; (6) Web Analytics — Google Analytics 4, dashboards and reporting.",
+        "text_ru": "BulkaPromote предоставляет 6 ключевых digital-услуг: разработка сайтов (WordPress, WooCommerce, HTML/Tailwind), SEO, контекстная реклама (Google Ads, Яндекс.Директ), SMM (Instagram, Facebook), интеграция CRM и автоматизация (n8n), веб-аналитика (Google Analytics 4)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do BulkaPromote services cost?",
+      "name_ru": "Сколько стоят услуги BulkaPromote?",
+      "name_ar": "كم تكلف خدمات BulkaPromote؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pricing is individual and depends on the task, niche, and business scale. BulkaPromote does not publish fixed rates because each project is scoped differently. A free consultation is available to discuss your specific needs and receive a custom proposal.",
+        "text_ru": "Стоимость определяется индивидуально — зависит от задачи, ниши и масштаба бизнеса. Фиксированных прайсов нет, т.к. каждый проект уникален. Свяжитесь для бесплатной консультации."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does website development take?",
+      "name_ru": "Сколько времени занимает разработка сайта?",
+      "name_ar": "كم يستغرق تطوير الموقع الإلكتروني؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timeline depends on project type: Landing page: 7–14 days. Business / corporate website: 14–21 days. Online store (e-commerce): 21–30 days. The exact deadline is agreed after requirements discussion. Rush delivery may be available for an additional fee.",
+        "text_ru": "Сроки зависят от типа проекта: лендинг — 7–14 дней, корпоративный сайт — 14–21 день, интернет-магазин — 21–30 дней. Точные сроки согласуются после обсуждения ТЗ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does BulkaPromote work with clients outside Kazakhstan?",
+      "name_ru": "Работает ли BulkaPromote с клиентами из других стран?",
+      "name_ar": "هل تعمل BulkaPromote مع عملاء من خارج كازاخستان؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. BulkaPromote's physical office is in Shymkent, Kazakhstan, but the agency works remotely with clients worldwide. Clients from UAE, Saudi Arabia, Russia, and other countries are welcome. All communication, project management, and reports are conducted online.",
+        "text_ru": "Да. Физический офис в Шымкенте, Казахстан, но работаем удалённо с клиентами по всему миру — ОАЭ, Саудовская Аравия, Россия и другие страны. Общение, ведение проекта и отчёты — онлайн."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in BulkaPromote's SEO service?",
+      "name_ru": "Что входит в SEO-продвижение от BulkaPromote?",
+      "name_ar": "ماذا يشمل خدمة SEO من BulkaPromote؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BulkaPromote's SEO service includes: site technical audit, keyword and semantic core research, on-page and technical optimization, content writing and publication, backlink building, and monthly reports on rankings and organic traffic. Proven result: +40% organic traffic in 6 months for oxanason.kz (English school, Shymkent).",
+        "text_ru": "SEO от BulkaPromote включает: технический аудит, сбор семантического ядра, on-page и технческую оптимизацию, создание контента, наращивание ссылок, ежемесячные отчёты. Результат: +40% органики за 6 месяцев (oxanason.kz)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I start working with BulkaPromote?",
+      "name_ru": "Как начать сотрудничество с BulkaPromote?",
+      "name_ar": "كيف أبدأ التعاون مع BulkaPromote؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contact BulkaPromote via Telegram (@bulkapromote), WhatsApp (+7 771 196 96 00), or email (bulkapromote@gmail.com). A free consultation will be scheduled, the project will be analyzed, and a work plan will be provided. Work starts within 48 hours of agreement.",
+        "text_ru": "Напишите в Telegram (@bulkapromote), WhatsApp (+7 771 196 96 00) или email (bulkapromote@gmail.com). Проведём бесплатную консультацию, изучим проект и предложим план. Начинаем работу в течение 48 часов с момента согласования."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does BulkaPromote guarantee results?",
+      "name_ru": "Гарантирует ли BulkaPromote результаты?",
+      "name_ar": "هل تضمن BulkaPromote النتائج؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BulkaPromote works toward measurable, agreed KPIs: traffic volume, number of leads, cost-per-acquisition. Specific Google ranking positions are not guaranteed because search engine positions depend on Google's algorithm. All performance indicators are defined and agreed before work begins.",
+        "text_ru": "Работаем на измеримые KPI: трафик, количество заявок, стоимость привлечения. Конкретные позиции в Google не гарантируем — они зависят от алгоритма. Все показатели согласуются до начала работы."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What technology does BulkaPromote use to build websites?",
+      "name_ru": "Какие технологии BulkaPromote использует для создания сайтов?",
+      "name_ar": "ما هي التقنيات التي تستخدمها BulkaPromote لبناء المواقع؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BulkaPromote uses WordPress + Bricks Builder for multi-page business sites and WooCommerce online stores. For landing pages and simple sites, HTML + Tailwind CSS is used for faster performance. All sites are built mobile-first and optimized for Google Core Web Vitals.",
+        "text_ru": "WordPress + Bricks Builder для многостраничных сайтов и WooCommerce-магазинов. HTML + Tailwind CSS для лендингов — быстрее и легче. Все сайты адаптивные, оптимизированы под Core Web Vitals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does BulkaPromote use AI in its work?",
+      "name_ru": "Как BulkaPromote использует AI в работе?",
+      "name_ar": "كيف تستخدم BulkaPromote الذكاء الاصطناعي في عملها؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BulkaPromote uses a system of 15 specialized AI agents internally to deliver faster and more precise results. These agents handle: strategy, competitor research, SEO keyword analysis, copywriting, web development, advertising management, CRM setup, analytics, and client reporting. Clients receive results — AI is an internal production tool, not a product sold to clients.",
+        "text_ru": "Внутри агентства работают 15 специализированных AI-агентов: стратегия, конкурентная разведка, сбор семантики, копирайтинг, разработка, реклама, CRM, аналитика, отчёты. Клиент получает результат — AI является внутренним инструментом, не продаётся клиентам."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What results has BulkaPromote achieved for clients?",
+      "name_ru": "Каких результатов добился BulkaPromote для клиентов?",
+      "name_ar": "ما النتائج التي حققتها BulkaPromote للعملاء؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key results from real projects: oxanason.kz (English school) — +40% organic traffic in 6 months via SEO. pintashymkent.kz (food delivery) — 200+ leads in 2 months via Google Ads, with 30% reduction in cost-per-lead after optimization. saryagash-bron.kz (health resort booking) — full online booking system with payment integration. Talgat Shyrshykbek has 11+ years of experience in digital marketing.",
+        "text_ru": "Реальные результаты: oxanason.kz — +40% органики за 6 месяцев; pintashymkent.kz — 200+ заявок за 2 месяца, CPL −30%; saryagash-bron.kz — система онлайн-бронирования с оплатой. Опыт основателя — 11+ лет."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does BulkaPromote provide ongoing support after website launch?",
+      "name_ru": "Оказывает ли BulkaPromote поддержку после запуска сайта?",
+      "name_ar": "هل تقدم BulkaPromote دعمًا مستمرًا بعد إطلاق الموقع؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. BulkaPromote offers ongoing support packages after website launch, including: SEO management, advertising campaign management, content updates, and technical support. Ongoing analytics and monthly reporting are standard for SEO and ads clients.",
+        "text_ru": "Да. После запуска предлагаем ведение SEO, управление рекламой, обновление контента и техподдержку. Аналитика и ежемесячные отчёты входят в SEO и рекламные пакеты."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In which languages does BulkaPromote provide services?",
+      "name_ru": "На каких языках работает BulkaPromote?",
+      "name_ar": "بأي لغات تعمل BulkaPromote؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BulkaPromote provides services in Russian, Kazakh, and English. The agency website is available in three languages: Russian (bulkapromote.com), English (bulkapromote.com/en/), and Arabic (bulkapromote.com/ar/). Arabic-language support targets clients from the UAE and Saudi Arabia.",
+        "text_ru": "Работаем на русском, казахском и английском. Сайт доступен на RU, EN и AR. Арабский — для клиентов из ОАЭ и Саудовской Аравии."
+      }
+    }
+  ],
+  "serviceTable": {
+    "description": "BulkaPromote services overview",
+    "services": [
+      {
+        "name": "Website Development",
+        "name_ru": "Разработка сайтов",
+        "technologies": ["WordPress", "Bricks Builder", "WooCommerce", "HTML", "Tailwind CSS"],
+        "deliveryTime": "7–30 days",
+        "pricing": "By agreement"
+      },
+      {
+        "name": "SEO",
+        "name_ru": "SEO-продвижение",
+        "technologies": ["Google Search Console", "Google Analytics 4"],
+        "deliveryTime": "Ongoing (3–6 months to see results)",
+        "provenResult": "+40% organic traffic in 6 months"
+      },
+      {
+        "name": "Paid Advertising",
+        "name_ru": "Контекстная реклама",
+        "technologies": ["Google Ads", "Yandex.Direct"],
+        "deliveryTime": "Setup: 3–7 days",
+        "provenResult": "200+ leads in 2 months, CPL −30%"
+      },
+      {
+        "name": "SMM",
+        "name_ru": "Ведение соцсетей",
+        "technologies": ["Instagram", "Facebook"],
+        "deliveryTime": "Ongoing"
+      },
+      {
+        "name": "CRM Integration & Automation",
+        "name_ru": "CRM и автоматизация",
+        "technologies": ["n8n", "CRM systems", "Email sequences"],
+        "deliveryTime": "7–21 days"
+      },
+      {
+        "name": "Web Analytics",
+        "name_ru": "Веб-аналитика",
+        "technologies": ["Google Analytics 4", "Google Tag Manager"],
+        "deliveryTime": "3–5 days setup"
+      }
+    ]
+  },
+  "stats": {
+    "yearsExperience": 11,
+    "trafficGrowthCase": "+40%",
+    "leadsCase": "200+",
+    "cplReductionCase": "-30%",
+    "foundedYear": 2025
+  }
+}
