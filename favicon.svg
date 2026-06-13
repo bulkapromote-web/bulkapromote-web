@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#0b1120"/>
+  <rect width="32" height="32" rx="7" fill="none" stroke="#38bda4" stroke-width="1.5" stroke-opacity="0.5"/>
+  <text x="16" y="22" text-anchor="middle" fill="#38bda4" font-family="system-ui,-apple-system,sans-serif" font-weight="900" font-size="12.5" letter-spacing="0.5">BP</text>
+</svg>

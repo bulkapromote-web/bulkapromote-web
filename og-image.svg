@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="g1" cx="70%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#38bda4" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#38bda4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="10%" cy="90%" r="55%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0b1120"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+
+  <!-- Border -->
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="none" stroke="rgba(255,255,255,0.07)" stroke-width="1.5"/>
+
+  <!-- Logo -->
+  <circle cx="96" cy="90" r="32" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="1.5"/>
+  <text x="96" y="98" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-weight="900" font-size="17">BP</text>
+  <text x="143" y="100" fill="white" font-family="system-ui,sans-serif" font-weight="600" font-size="22" letter-spacing="1.5">BulkaPromote</text>
+
+  <!-- Pill badge -->
+  <rect x="435" y="175" width="330" height="44" rx="22" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+  <circle cx="462" cy="197" r="5" fill="#4ade80"/>
+  <text x="600" y="203" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="system-ui,sans-serif" font-size="17">Digital-агентство · SEO · Google Ads · Сайты</text>
+
+  <!-- Main headline -->
+  <text x="600" y="300" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-weight="900" font-size="78" letter-spacing="-2">Оцифровываем</text>
+  <text x="600" y="390" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="900" font-size="78" letter-spacing="-2">
+    <tspan fill="rgba(255,255,255,0.35)">Бизнес</tspan>
+    <tspan fill="white"> за 30 дней</tspan>
+  </text>
+
+  <!-- Sub -->
+  <text x="600" y="460" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-family="system-ui,sans-serif" font-size="26">Сайт, SEO, реклама, CRM — полный digital-цикл</text>
+
+  <!-- Stats -->
+  <rect x="270" y="510" width="180" height="60" rx="12" fill="rgba(56,189,148,0.08)" stroke="rgba(56,189,148,0.2)" stroke-width="1"/>
+  <text x="360" y="535" text-anchor="middle" fill="#38bda4" font-family="system-ui,sans-serif" font-weight="900" font-size="22">+40%</text>
+  <text x="360" y="556" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="system-ui,sans-serif" font-size="13">трафик · SEO</text>
+
+  <rect x="510" y="510" width="180" height="60" rx="12" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.2)" stroke-width="1"/>
+  <text x="600" y="535" text-anchor="middle" fill="#818cf8" font-family="system-ui,sans-serif" font-weight="900" font-size="22">200+</text>
+  <text x="600" y="556" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="system-ui,sans-serif" font-size="13">заявок · Ads</text>
+
+  <rect x="750" y="510" width="180" height="60" rx="12" fill="rgba(56,189,148,0.08)" stroke="rgba(56,189,148,0.2)" stroke-width="1"/>
+  <text x="840" y="535" text-anchor="middle" fill="#38bda4" font-family="system-ui,sans-serif" font-weight="900" font-size="22">11+</text>
+  <text x="840" y="556" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="system-ui,sans-serif" font-size="13">лет опыта</text>
+
+  <!-- Domain -->
+  <text x="600" y="600" text-anchor="middle" fill="rgba(255,255,255,0.2)" font-family="system-ui,sans-serif" font-size="18">bulkapromote.com</text>
+</svg>

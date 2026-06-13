@@ -2,3 +2,22 @@ User-agent: *
 Allow: /
 
 Sitemap: https://bulkapromote.com/sitemap.xml
+
+# AI crawlers — structured data
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# AI-readable content
+LLMs: https://bulkapromote.com/llms.txt

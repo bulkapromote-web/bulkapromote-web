@@ -4,20 +4,107 @@
 
   <url>
     <loc>https://bulkapromote.com/</loc>
-    <lastmod>2025-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://bulkapromote.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://bulkapromote.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://bulkapromote.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bulkapromote.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bulkapromote.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://bulkapromote.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://bulkapromote.com/kk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bulkapromote.com/"/>
   </url>
 
   <url>
     <loc>https://bulkapromote.com/en/</loc>
-    <lastmod>2025-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="ru" href="https://bulkapromote.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://bulkapromote.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://bulkapromote.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bulkapromote.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bulkapromote.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://bulkapromote.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://bulkapromote.com/kk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bulkapromote.com/"/>
+  </url>
+
+  <url>
+    <loc>https://bulkapromote.com/ar/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bulkapromote.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bulkapromote.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://bulkapromote.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bulkapromote.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bulkapromote.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://bulkapromote.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://bulkapromote.com/kk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bulkapromote.com/"/>
+  </url>
+
+  <url>
+    <loc>https://bulkapromote.com/tr/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bulkapromote.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bulkapromote.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://bulkapromote.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bulkapromote.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bulkapromote.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://bulkapromote.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://bulkapromote.com/kk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bulkapromote.com/"/>
+  </url>
+
+  <url>
+    <loc>https://bulkapromote.com/es/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bulkapromote.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bulkapromote.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://bulkapromote.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bulkapromote.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bulkapromote.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://bulkapromote.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://bulkapromote.com/kk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bulkapromote.com/"/>
+  </url>
+
+  <url>
+    <loc>https://bulkapromote.com/de/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bulkapromote.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bulkapromote.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://bulkapromote.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bulkapromote.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bulkapromote.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://bulkapromote.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://bulkapromote.com/kk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bulkapromote.com/"/>
+  </url>
+
+  <url>
+    <loc>https://bulkapromote.com/kk/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bulkapromote.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bulkapromote.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://bulkapromote.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bulkapromote.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bulkapromote.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://bulkapromote.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="kk" href="https://bulkapromote.com/kk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bulkapromote.com/"/>
   </url>
 
 </urlset>
